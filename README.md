@@ -1,6 +1,6 @@
 # konnected-legacy
 
-The Konnected integration is being deprecated in April 2025, pushing users toward migration to ESPHome. However, the current legacy setup has been running perfectly stable for years—why introduce complexity and risk when what we have works flawlessly?
+The Konnected integration is being deprecated in April 2026, pushing users toward migration to ESPHome. However, the current legacy setup has been running perfectly stable for years—why introduce complexity and risk when what we have works flawlessly?
 
 I've set up the Konnected integration locally, replacing the official version seamlessly without any issues. It works perfectly in Home Assistant today. I'm maintaining this local copy and will keep it updated as needed.
 
